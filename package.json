@@ -1,0 +1,16 @@
+{
+  "name": "PROJECT_NAME",
+  "version": "1.0.0",
+  "description": "PROJECT_DESCRIPTION",
+  "main": "src/bootstrap.js",
+  "scripts": {
+    "start": "node src/bootstrap.js"
+  },
+  "keywords": [],
+  "author": "Joey de Vries <me@xjoeyv.com>",
+  "license": "",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "yargs": "^13.2.4"
+  }
+}
